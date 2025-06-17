@@ -10,6 +10,9 @@ Pure JavaScript game engine — no magic, just Math.random() and a little pain
 
 CSS animations — the reels spin like in the real thing (almost)
 
+![image](https://github.com/user-attachments/assets/5b7a9c2f-c4b6-44f5-a297-dc4f152d52cc)
+
+
 Code structure — modular and minimalistic (size — like a supermarket receipt)
 
 No dependencies — everything is written by hand, like in the good old 2010s
