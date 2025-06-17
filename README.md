@@ -1,6 +1,6 @@
 Bonanza1000 slot clone with working logic and a pinch of magic 🎲
 
-KAZIK is a fan implementation of a slot machine inspired by **Bonanza1000**, but without investments, losses, or credit debts.  
+It is a fan implementation of a slot machine inspired by **Bonanza1000**, but without investments, losses, or credit debts.  
 This project demonstrates how you can recreate a slot machine from scratch: with spin mechanics, match logic, and simple animations.
 
 ![KAZIK Slot Preview](https://github.com/user-attachments/assets/cce878db-a13a-4528-9f3b-604fd4ea9920)
